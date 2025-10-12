@@ -1,4 +1,4 @@
-FROM tomcat:9.0.71-jdk17-temurin
+FROM tomcat:9.0.110-jdk17-temurin
 
 
 WORKDIR $CATALINA_HOME
