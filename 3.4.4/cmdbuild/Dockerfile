@@ -1,4 +1,4 @@
-FROM tomcat:11.0.2-jdk21-temurin-noble
+FROM tomcat:11.0.18-jdk21-temurin-noble
 
 
 WORKDIR $CATALINA_HOME
