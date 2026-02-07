@@ -1,6 +1,6 @@
 #FROM tomcat:9.0.53-jdk11-openjdk
 #FROM tomcat:9.0.65-jdk11-openjdk
-FROM tomcat:9.0.71-jdk17-temurin
+FROM tomcat:9.0.115-jdk17-temurin
 
 
 WORKDIR $CATALINA_HOME
